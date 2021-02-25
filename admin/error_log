@@ -1,0 +1,36 @@
+[17-Aug-2020 18:47:18 UTC] PHP Notice:  Undefined index: id in /home/jw575nn1uuaf/public_html/evs-client/init.php on line 45
+[17-Aug-2020 18:47:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jw575nn1uuaf/public_html/evs-client/users.php on line 129
+[17-Aug-2020 18:47:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jw575nn1uuaf/public_html/evs-client/users.php on line 137
+[17-Aug-2020 18:47:50 UTC] PHP Notice:  Undefined variable: customer_nm in /home/jw575nn1uuaf/public_html/evs-client/init.php on line 64
+[17-Aug-2020 18:47:50 UTC] PHP Notice:  Undefined variable: customer_nm in /home/jw575nn1uuaf/public_html/evs-client/init.php on line 64
+[17-Aug-2020 23:08:21 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:08:23 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:08:25 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:08:30 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:08:49 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:09:27 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:09:29 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:09:31 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:09:32 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:09:39 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:09:51 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[17-Aug-2020 23:10:26 UTC] PHP Notice:  Undefined variable: customer_nm in /home/jw575nn1uuaf/public_html/evs-client/init.php on line 64
+[17-Aug-2020 23:10:26 UTC] PHP Notice:  Undefined variable: customer_nm in /home/jw575nn1uuaf/public_html/evs-client/init.php on line 64
+[17-Aug-2020 23:11:12 UTC] PHP Notice:  Undefined index: delete in /home/jw575nn1uuaf/public_html/evs-client/admin/userlist.php on line 11
+[17-Aug-2020 23:11:12 UTC] PHP Notice:  Undefined index: update in /home/jw575nn1uuaf/public_html/evs-client/admin/userlist.php on line 17
+[17-Aug-2020 23:11:12 UTC] PHP Notice:  Undefined index: logout in /home/jw575nn1uuaf/public_html/evs-client/admin/userlist.php on line 23
+[17-Aug-2020 23:11:12 UTC] PHP Notice:  Undefined variable: customer_nm in /home/jw575nn1uuaf/public_html/evs-client/init.php on line 64
+[17-Aug-2020 23:11:12 UTC] PHP Notice:  Undefined variable: customer_nm in /home/jw575nn1uuaf/public_html/evs-client/init.php on line 64
+[17-Aug-2020 23:11:19 UTC] PHP Parse error:  syntax error, unexpected 'Added' (T_STRING) in /home/jw575nn1uuaf/public_html/evs-client/admin/create-new-user.php on line 133
+[01-Sep-2020 11:13:30 UTC] PHP Notice:  Undefined variable: customer_nm in /home/jw575nn1uuaf/public_html/evs/init.php on line 64
+[01-Sep-2020 11:13:30 UTC] PHP Notice:  Undefined variable: customer_nm in /home/jw575nn1uuaf/public_html/evs/init.php on line 64
+[25-Dec-2020 18:25:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getApplicationStatus(), 1 passed in /home/jw575nn1uuaf/public_html/evs/admin/verification-check.php on line 459 and exactly 2 expected in /home/jw575nn1uuaf/public_html/evs/admin/function.php:516
+Stack trace:
+#0 /home/jw575nn1uuaf/public_html/evs/admin/verification-check.php(459): getApplicationStatus('2')
+#1 {main}
+  thrown in /home/jw575nn1uuaf/public_html/evs/admin/function.php on line 516
+[25-Dec-2020 18:27:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getApplicationStatus(), 1 passed in /home/jw575nn1uuaf/public_html/evs/admin/verification-check.php on line 459 and exactly 2 expected in /home/jw575nn1uuaf/public_html/evs/admin/function.php:516
+Stack trace:
+#0 /home/jw575nn1uuaf/public_html/evs/admin/verification-check.php(459): getApplicationStatus('2')
+#1 {main}
+  thrown in /home/jw575nn1uuaf/public_html/evs/admin/function.php on line 516

@@ -1,0 +1,6 @@
+[17-Aug-2020 18:47:19 UTC] PHP Notice:  Undefined index: id in /home/jw575nn1uuaf/public_html/evs-client/init.php on line 45
+[17-Aug-2020 18:47:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jw575nn1uuaf/public_html/evs-client/users.php on line 129
+[17-Aug-2020 18:47:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jw575nn1uuaf/public_html/evs-client/users.php on line 137
+[17-Aug-2020 18:47:49 UTC] PHP Notice:  Undefined index: id in /home/jw575nn1uuaf/public_html/evs-client/init.php on line 45
+[17-Aug-2020 18:47:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jw575nn1uuaf/public_html/evs-client/users.php on line 129
+[17-Aug-2020 18:47:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jw575nn1uuaf/public_html/evs-client/users.php on line 137
